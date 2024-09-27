@@ -1,20 +1,9 @@
-# Ecommerce Customer Analysis & Linear Regression Model
+Ecommerce Customer Analysis & Linear Regression Model
+This project involves analyzing ecommerce customer data to predict the yearly amount spent by customers. We explore relationships between factors such as time spent on the website, time spent on the app, and membership length, and how they impact spending behavior.
 
-This project analyzes customer data from an ecommerce platform to build a predictive model using linear regression. The aim is to understand the relationship between various features like time spent on the website, app usage, and membership length, and how they influence the yearly amount spent by customers.
-
-## Table of Contents
-
-- [Installation](#installation)
-- [Project Description](#project-description)
-- [Exploratory Data Analysis](#exploratory-data-analysis)
-- [Modeling](#modeling)
-- [Evaluation](#evaluation)
-- [Contributing](#contributing)
-- [License](#license)
-
-## Installation
-
-To run this project, you need to install the following Python libraries:
-
-```bash
-pip install numpy pandas matplotlib seaborn scikit-learn
+Key Sections:
+Data Analysis: Initial exploration and visualization of customer behaviors.
+Model Building: Using Linear Regression to predict yearly customer spend based on various factors.
+Model Evaluation: Assessing model performance with metrics like Mean Squared Error and plotting residuals.
+Dependencies:
+Python libraries: NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn
