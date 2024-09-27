@@ -43,5 +43,3 @@ You will need to install the following Python libraries:
 This project provides insights into how various customer behaviors affect spending, and uses a predictive model to forecast future spending trends.
 
 ---
-
-Make sure each section is separated by a blank line or double spaces to ensure Markdown renders it properly with line breaks. Let me know if this works better!
